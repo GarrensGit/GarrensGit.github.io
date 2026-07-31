@@ -1,4 +1,9 @@
- --- title: Music Exploration with Pandas date: 2026-07-31 12:00:00 -0700 categories: [Data Analysis, Python] tags: [python, pandas, music,pandas,visualiztion] ---
+--- 
+title: Music Exploration with Pandas 
+date: 2026-07-31 12:00:00 -0700 
+categories: [Data Analysis, Python] 
+tags: [python, pandas, music,pandas,visualiztion]
+---
 
 # Music Exploration
 Garren Ramirez
@@ -1400,7 +1405,7 @@ sorted_genre
 
 
     
-![png](Music%20Exploration_files/Music%20Exploration_29_1.png)
+![png](/assets/Music_exp_pics/Music_Exploration_29_1.png)
     
 
 
@@ -1582,7 +1587,7 @@ lengthPlot = sns.regplot(x= 'year', y = 'total_seconds',  data = song_length)
 
 
     
-![png](Music%20Exploration_files/Music%20Exploration_32_0.png)
+![png](/assets/Music_exp_pics/Music_Exploration_32_0.png)
     
 
 
@@ -1615,7 +1620,7 @@ plt.show()
 
 
     
-![png](Music%20Exploration_files/Music%20Exploration_34_0.png)
+![png](/assets/Music_exp_pics/Music_Exploration_34_0.png)
     
 
 
@@ -1643,7 +1648,7 @@ sns.heatmap(music_df.corr(), mask=matrix, annot = True, fmt = '.2f')
 
 
     
-![png](Music%20Exploration_files/Music%20Exploration_36_1.png)
+![png](/assets/Music_exp_pics/Music_Exploration_36_1.png)
     
 
 
