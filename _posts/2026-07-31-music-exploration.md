@@ -1,5 +1,5 @@
 --- 
-title: Music Exploration with Pandas 
+title: Music Data Exploration with Pandas 
 date: 2026-07-31 12:00:00 -0700 
 categories: [Data Analysis, Python] 
 tags: [python, pandas, Music, Visualiztion]
