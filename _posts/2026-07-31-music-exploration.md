@@ -2,15 +2,14 @@
 title: Music Exploration with Pandas 
 date: 2026-07-31 12:00:00 -0700 
 categories: [Data Analysis, Python] 
-tags: [python, pandas, music,pandas,visualiztion]
+tags: [python, pandas, Music, Visualiztion]
 ---
-
-# Music Exploration
-Garren Ramirez
 
 ### Motivation 
 
-For this project I decided to look at popular music statistics and its qualites. I chose to use the the "Top Hits Spotfy from 2000-2019" from Kaggle.com ( https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019 ). I chose this dataset because I love music, I thoroughly enjoy listening to a variety of music genres and exploring music from other countries as well, so I feel trying to find the qualities of what makes a 'hit' could be an interesting project. I will be conducting a statistical analysis trying to find correlations between a tracks popularity and influences from other variables. The dataset is decribed as such from Kaggle, 'This dataset contains audio statistics of the top 2000 tracks on Spotify from 2000-2019. The data contains about 18 columns each describing the track and it's qualities.' 
+For this project I decided to look at popular music statistics and its qualites. I chose to use the the "Top Hits Spotfy from 2000-2019" from Kaggle.com ( https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019 ). I chose this dataset because I love music, so I feel trying to find the qualities of what makes a 'hit' could be an interesting project.  
+
+I will be conducting an analysis trying to find correlations between a tracks popularity and influences from other variables. The dataset is decribed as such from Kaggle, 'This dataset contains audio statistics of the top 2000 tracks on Spotify from 2000-2019. The data contains about 18 columns each describing the track and it's qualities.'  
 First and foremost, we need to import the necessary libraries needed for this project, numpy, matplotlib, pandas, and seaborn are all of the necessary libraries I have imported. 
 
 
@@ -1661,7 +1660,7 @@ One observation that stood out to me was that speechiness had a slight positive 
 Another interesting find is that, year and valence have a slightly negative correlation. Could this mean that top hit songs have gotten sadder over the years? We cannot assume this as a fact, but this correlation did surprise me a little. 
 
 ## Conclusion
-Well, this concludes my paper, I believe I have explored what makes a top hit enough to probably go and make one myself. In total, we need:
+This concludes my paper, I believe I have explored what makes a top hit enough to make one myself. In total, we need:
 
 **1. High danceability-** Good rythm, maybe a tempo of around 120 BPM, and good energy.
 
@@ -1678,6 +1677,3 @@ Well, this concludes my paper, I believe I have explored what makes a top hit en
 **7. Genre should be Pop, Hip Hip, or EDM.**
 
 Congratulations, now you can make your own top hit!
-
-Overall, I am happy with how this project turned out. I had some slight hiccups and needed to go back and repeat things, but it gave me the oppourtunity to re-evaluate and properly clean and then present the data with what I believe to be little or no errors. I did enjoy exploring this data, I thought it was very cool to see what the general population likes to listen too and what attributes were associated with these popular songs. I would like to see how this data was collected or even how some of these variables were measured because the numbers that were in it did seem accurate in terms of what I would 'rate' them as, yet I don't whether to embrace and accept them as is. I will likely remain skeptical with the data, as it's never a bad thing to be skepitcal when it comes to science and analysis, especially when you don't know how the data was collected or measured. I'm sure there is someone else out there who could do a much better job of analyzing or even presenting/interpreting variables such as these. 
-
