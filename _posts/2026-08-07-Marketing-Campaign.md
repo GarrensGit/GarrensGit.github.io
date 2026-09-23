@@ -1,5 +1,5 @@
 ---
-title: Marketing Campaign Analysis 
+title: Marketing Campaign Analysis using Visulizations,  Clustering, and Segmentation 
 date: 2026-08-07 12:00:00 -0700 
 categories: [Data Analysis, Python, Prediction, Data Science] 
 tags: [python, pandas, MatPlotLib, Visualiztion, Machine Learning, Marketing, KNN, Data Science, Regression, Random Forest]
