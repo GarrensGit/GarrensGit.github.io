@@ -2,7 +2,7 @@
 title: Marketing Campaign Analysis 
 date: 2026-08-07 12:00:00 -0700 
 categories: [Data Analysis, Python, Prediction, Data Science] 
-tags: [python, pandas, MatPlotLib, Visualiztion, ML, Marketing, KNN, Data Science, Regression, Random Forest]
+tags: [python, pandas, MatPlotLib, Visualiztion, Machine Learning, Marketing, KNN, Data Science, Regression, Random Forest]
 math: true
 ---
 
